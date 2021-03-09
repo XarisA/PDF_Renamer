@@ -1,10 +1,13 @@
 # PDFR
 
- PDF Renamer is a 1-h project for a very specific need. It is a bulk renamer used for pdf documents generated from our ERP. 
+PDF Renamer is a 1-h project for a very specific need. It is a bulk renamer used for pdf documents generated from our ERP. 
  
 It parses the pdf to read the Mixture name and then adds the user defined prefix-suffix accordingly.
 
-Works for 
+![PDFR](https://user-images.githubusercontent.com/3985557/110482617-86aeac00-80f1-11eb-8984-b1bcbeb1835d.jpg)
+
+
+Works for our
 - MSDS
 - Allergen Certificates
 - IFRA Certificates
